@@ -6,7 +6,7 @@
 
 - 🔭 I’m a **2024 graduate from IIT Gandhinagar**, specialized in **Robotics**, focusing on **kinematics, dynamics, control, and sensor integration**.  
 - 🏢 Previously worked as a **Junior Research Fellow at IIT Bombay (Aug 2024 - Feb 2025)**.  
-- 🌱 Currently learning **ROS2 with C++**, along with advanced **Control Concepts**.  
+- 🌱 Currently working on **ROS2 with C++**, along with advanced **Control Concepts**.  
 - 👯 Looking to collaborate on **Robotics projects and autonomous navigation**.  
 - 🤔 Seeking guidance on **Advanced motion planning and SLAM implementation**.  
 - 💬 Ask me about **Robotics Kinematics, Dynamics, Control, and Sensor integration**.  
