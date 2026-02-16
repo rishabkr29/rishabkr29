@@ -4,7 +4,7 @@
 **rishabkr29/rishabkr29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.  
 -->  
 
-- 🔭 I’m a **2024 graduate from IIT Gandhinagar**, specialized in **Robotics**, focusing on **kinematics, dynamics, control, and sensor integration**.  
+- 🔭 I’m a **2024 graduate from IIT Gandhinagar**, specialized in **Robotics**, focusing on **kinematics, dynamics, control, Navigation, Locailzation and Perception**.  
 - 🏢 Previously worked as a **Robotics Engineer at Alphadroid**.  
 - 🌱 Currently working on **ROS2 with C++**, along with advanced **Localization,Navigarion,Perception and Motion Planning**.  
 - ⚡ Fun fact: Training for **IRONMAN 70.3 Goa** and recently completed a **21.1 km run in 2:40 at the SKF Goa Marathon**!  
